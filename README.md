@@ -429,19 +429,5 @@ Contributions are welcome! Please follow these steps:
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**wrestle-R** - [GitHub Profile](https://github.com/wrestle-R)
-
-## 📞 Support
-
-For issues, questions, or suggestions, please open an [issue](https://github.com/wrestle-R/Vathavaran-Variables/issues) on GitHub.
-
----
-
 **Built with ❤️ for secure environment variable management**
 
